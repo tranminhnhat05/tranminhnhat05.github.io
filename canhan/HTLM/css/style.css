@@ -24,7 +24,7 @@ body{
   
   /* Header **/
   header{
-    background:#35424a;
+    background:;
     color: #ffffff;
     padding-top:30px;
     min-height: 70px;
@@ -89,5 +89,3 @@ body{
     margin-top: 20px;
     text-align: center;
   }
-  
-  
